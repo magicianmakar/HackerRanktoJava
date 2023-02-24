@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author BEAST
+ *
+ */
+module MyFirstJava {
+}
